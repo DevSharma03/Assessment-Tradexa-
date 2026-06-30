@@ -1,0 +1,8 @@
+[
+  {"name": "XS",  "length": 15, "width": 10, "height": 8,  "max_weight": 1.0,  "cost": 0.80},
+  {"name": "S",   "length": 25, "width": 18, "height": 12, "max_weight": 3.0,  "cost": 1.20},
+  {"name": "M",   "length": 35, "width": 25, "height": 20, "max_weight": 8.0,  "cost": 2.00},
+  {"name": "L",   "length": 45, "width": 35, "height": 30, "max_weight": 15.0, "cost": 3.50},
+  {"name": "XL",  "length": 60, "width": 45, "height": 40, "max_weight": 25.0, "cost": 5.50},
+  {"name": "XXL", "length": 80, "width": 60, "height": 50, "max_weight": 40.0, "cost": 9.00}
+]
